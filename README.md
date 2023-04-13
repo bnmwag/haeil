@@ -1,16 +1,11 @@
-# haeil README
 
-## Working with Markdown
+# vscode/theme-haeil
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Haeil is a visually stunning color theme for Visual Studio Code that enhances your coding experience with a modern and sleek look. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Its vibrant and bold color palette, dark background, and contrasting colors make it easy to distinguish between different elements of your code. Perfect for developers who want a stylish and functional color theme to stay focused and productive. Try it out today!
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+
+![haeil-mockup-image](https://cdn.discordapp.com/attachments/503236755349176361/1095719523786690761/Mockup.png)

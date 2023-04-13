@@ -1,8 +1,10 @@
 {
   "name": "haeil",
   "displayName": "haeil",
-  "description": "dark theme",
-  "version": "0.0.1",
+  "publisher": "bnmwag",
+  "description": "Haeil is a visually stunning color theme for Visual Studio Code that is designed to enhance your coding experience. With its vibrant and bold color palette, Haeil provides a modern and sleek look that is easy on the eyes. The theme features a dark background with contrasting colors that make it easy to distinguish between different elements of your code. Haeil is perfect for developers who want a color theme that is both stylish and functional. Whether you're working on a personal project or a large-scale application, Haeil will help you stay focused and productive. So why settle for a boring color theme when you can have Haeil? Try it out today and see the difference for yourself!",
+  "version": "0.0.6",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.77.0"
   },
